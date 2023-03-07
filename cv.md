@@ -62,5 +62,4 @@ medicine and human ecology"(2012-to the present day)
 - Belorusian(school education
 )
 - English (A2 - Epam testing)
-***
 
