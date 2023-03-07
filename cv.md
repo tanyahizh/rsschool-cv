@@ -8,7 +8,8 @@ Tatsiana Khizhniak
 **E-mail:** tanya86hizh@gmail.com  
 **Telegram:** @tanyahizh  
 **Githab:** [tanyahizh](https://github.com/tanyahizh)
-***
+******  
+
 **About myself**  
 
 I like to study. Also I am interested in psychology.
