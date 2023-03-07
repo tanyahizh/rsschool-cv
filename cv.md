@@ -10,6 +10,7 @@ Tatsiana Khizhniak
 **Githab:** [tanyahizh](https://github.com/tanyahizh)
 ***
 **About myself**  
+
 I like to study. Also I am interested in psychology.
 I have programming and teaching skills. I have a large family (3 children), which helps me to plan correctly and do everything in time. I enjoy working in a team, take the initiative, listen to advice and adequately respond to criticism. I attentively relate to detail, stress-resistant.
 ***
