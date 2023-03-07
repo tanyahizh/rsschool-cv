@@ -34,7 +34,8 @@ private void RefDataGrid(DataGridView dgw, object p)
             dgw.Rows.Clear();
 
             string querystring = $"select id, datak, snbolls, datan, kolday, ctxtDiagKlinZaklKod_1, dsctxtDiagKlinZaklKod, nstr, 
-				prim, FIO, txtNumberIB, DATDATEBOUND, age, adressmzh, mrab, vidnp, vrvidbol, vrzakrbol, datreg from bolnich_register where idp = '{p}'";
+				prim, FIO, txtNumberIB, DATDATEBOUND, age, adressmzh, mrab, vidnp, vrvidbol, vrzakrbol, datreg 
+				from bolnich_register where idp = '{p}'";
 
             SqlCommand command = new SqlCommand(querystring, db.getConnection());
             
