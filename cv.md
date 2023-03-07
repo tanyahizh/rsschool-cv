@@ -1,7 +1,5 @@
 Tatsiana Khizhniak
 =
-
-***
 **Software engineer**
 ***
 **Contact information:**
