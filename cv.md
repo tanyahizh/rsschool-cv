@@ -1,7 +1,7 @@
 Tatsiana Khizhniak
 =
 **Software engineer**
-***
+-----------  
 **Contact information:**
 
 **Phone:** +375 (44) 751-37-27  
